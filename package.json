@@ -35,6 +35,9 @@
     "url": "https://github.com/MauriceButler/cryptr/issues"
   },
   "homepage": "https://github.com/MauriceButler/cryptr",
+  "dependencies": {
+    "react-native-crypto": "^2.2.0"
+  }
   "devDependencies": {
     "tape": "^5.6.1"
   }

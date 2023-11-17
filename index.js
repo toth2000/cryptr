@@ -1,4 +1,4 @@
-const crypto = require('crypto');
+const crypto = require('react-native-crypto');
 
 const algorithm = 'aes-256-gcm';
 const ivLength = 16;
